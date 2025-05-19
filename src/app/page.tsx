@@ -19,7 +19,7 @@ const Home: React.FC = () => {
 
   return (
     <div className="flex flex-col min-h-screen bg-gray-100">
-      <header className="bg-gradient-to-r from-indigo-600 to-purple-700 text-white p-6">
+      <header className="bg-gradient-to-r from-red-600 to-purple-700 text-white p-6">
         <h1 className="text-4xl font-semibold">Todos</h1>
       </header>
       <main className="flex flex-col items-center justify-center p-6">
